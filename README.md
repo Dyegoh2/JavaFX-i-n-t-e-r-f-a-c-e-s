@@ -1,3 +1,1 @@
-# JavaFX-i-n-t-e-r-f-a-c-e-s
-Made by Ángel Ramírez and Diego Pacheco, October, 2020
- trabajo
+En la rama de paquetes está el archivo de JAVAFX.rar con los paquetes con las interfaces.
